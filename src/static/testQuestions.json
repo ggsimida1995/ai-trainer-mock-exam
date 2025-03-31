@@ -1,0 +1,2167 @@
+{
+  "judgeQuestions": [
+    {
+      "id": 1,
+      "question": "导航流程设计的目标之一是减少用户的认知负担。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "人机交互流程设计概述：导航流程设计的目标之一是减少用户的认知负担。",
+      "showExplanation": false
+    },
+    {
+      "id": 2,
+      "question": "提高报告质量的过程中，定期审查流程是为了确保报告的格式统一。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "测试报告与分析报告编写要点：定期审查流程不仅仅是为了确保报告的格式统一，更重要的是确保报告保持最新、准确且具有可操作性，以及确保报告在技术、业务和其他方面的准确性和完整性。",
+      "showExplanation": false
+    },
+    {
+      "id": 3,
+      "question": "数据仓库属于关系型数据库。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 4,
+      "question": "箱形图可以用来查看特征间的相关关系。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 5,
+      "question": "Bokeh 库是针对浏览器使用的交互式可视化库。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 6,
+      "question": "在数据标注领域中，‘众包标注’指的是使用大量人员进行标注。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 7,
+      "question": "数据的质量控制包括数据收集、数据输入、数字化及数据校验阶段。以上描述是否正确？",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 8,
+      "question": "使用 iTAG 进行标注时，系统会自动为每个标注对象分配的标签并不是唯一。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 9,
+      "question": "文本分类系统大致可分为基于知识工程的分类系统和基于机器学习的分类系统。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 10,
+      "question": "数据转化是对数据的格式或结构进行转换，是数据处理的前期准备，包括数据表的行列互换、数据清洗等。以上描述是否正确？",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 11,
+      "question": "在 Python 中，ndarray 对象的 shape 属性表示每个维度上数组的大小。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 12,
+      "question": "知识萃取的定义是在限定时间内从信息中提取出所有可能的知识。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "知识萃取与经验总结技巧：知识萃取的定义是快速而有效地从大量信息中提取出有用的知识，而不是提取所有可能的知识。知识萃取注重的是效率和效用，旨在提取对个体或组织最有价值的知识。",
+      "showExplanation": false
+    },
+    {
+      "id": 13,
+      "question": "在神经网络中引入了非线性的是修正线性单元（ReLU）。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 14,
+      "question": "朴素贝叶斯分类器假设文本特征之间是相互独立的。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "文本分类：朴素贝叶斯分类器基于特征条件独立性假设，即假设文本特征之间是相互独立的。",
+      "showExplanation": false
+    },
+    {
+      "id": 15,
+      "question": "监督学习和无监督学习可以结合使用以提高模型性能。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "监督学习与无监督学习：监督学习和无监督学习并不是相互排斥的概念，在实际问题中它们可以结合使用，例如可以使用无监督学习方法进行特征提取，然后再使用监督学习方法进行分类或预测。",
+      "showExplanation": false
+    },
+    {
+      "id": 16,
+      "question": "规范性分析是最低级别的数据分析类型，仅用来确定当前状况。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "业务数据处理流程设计：规范性分析实际上是最高级的数据分析类型，它会综合所有数据和模型，提出最优行动方案。",
+      "showExplanation": false
+    },
+    {
+      "id": 17,
+      "question": "业务指标的绩效评估只需进行定期的、频繁的评估。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "业务流程设计概述：业务指标的绩效评估不应仅限于年度或季度，而是需要进行定期的、频繁的评估。",
+      "showExplanation": false
+    },
+    {
+      "id": 18,
+      "question": "业务数据审核不能通过手动方式进行。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "业务数据审核流程设计：业务数据审核方法包括手动审核和自动审核。",
+      "showExplanation": false
+    },
+    {
+      "id": 19,
+      "question": "卷积层在卷积神经网络中的作用是降低数据维度。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "卷积神经网络：卷积层的主要作用是提取局部特征，而不是降低数据维度。池化层才是用于降低数据维度的组件。",
+      "showExplanation": false
+    },
+    {
+      "id": 20,
+      "question": "循环神经网络（RNN）能够捕捉序列中的长程依赖关系",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "数据拆解高阶方法：RNN 的核心特点是具有循环结构，这使得网络能够保持一个内部状态（记忆）并在处理每个序列元素时更新这个状态，因此 RNN 能够捕捉序列中的长程依赖关系。",
+      "showExplanation": false
+    },
+    {
+      "id": 21,
+      "question": "进行 A/B 测试，比较人工标注和智能标注的效果可用来评估智能标注（iTAG）的效果。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 22,
+      "question": "在 Linux 中，autopsy 命令可用于磁盘镜像分析。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 23,
+      "question": "局部变量指在函数内部使用的变量，当函数退出时，变量依然存在，下次函数调用可以继续使用。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 24,
+      "question": "数据清洗是数据预处理中重要的任务。以上描述是否正确?",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 25,
+      "question": "朴素贝叶斯分类器假设文本特征之间是相互独立的。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "文本分类：朴素贝叶斯分类器基于特征条件独立性假设，即假设文本特征之间是相互独立的。",
+      "showExplanation": false
+    },
+    {
+      "id": 26,
+      "question": "数据仓库是以图的形式存储数据，其中节点表示实体，边表示实体之间的关系。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 27,
+      "question": "在进行文本数据标注时，实体标注和情感标注可以同时进行。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "数据标注技能图谱：实体标注和情感标注是两种不同的文本数据标注方法，可以针对同一文本数据集同时进行，以便获取更丰富的信息。",
+      "showExplanation": false
+    },
+    {
+      "id": 28,
+      "question": "选择适合的标注工具和平台是在制定标注指南之后进行的。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "数据标注技能图谱：选择适合的标注工具和平台是在制定标注指南之前进行的，这是因为标注工具和平台的选择会影响到标注指南的制定和标注任务的执行。",
+      "showExplanation": false
+    },
+    {
+      "id": 29,
+      "question": "请求头中的 User-Agent 字段可以用来识别客户端 IP。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 30,
+      "question": "只要一个对称函数所对应的核矩阵半正定，就能称为核函数。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 31,
+      "question": "数据重组是数据的重新生产和重新采集。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 32,
+      "question": "包裹式特征选择需要依赖领域知识进行选择。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "数据预处理和增强：过滤式特征选择需要依赖领域知识进行选择，而包裹式特征选择使用特定的机器学习算法来选择特征，不完全依赖领域知识。",
+      "showExplanation": false
+    },
+    {
+      "id": 33,
+      "question": "数据驱动的决策原则强调依赖直觉和经验进行决策。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "定期审查流程是为了确保报告的格式统一解析：本题目来自《智能流程优化》，数据驱动的决策原则强调基于准确、完整和及时的数据进行决策。",
+      "showExplanation": false
+    },
+    {
+      "id": 34,
+      "question": "groupby()方法只能将数据集按照纵轴方向进行分组。",
+      "options": ["正确", "错误"],
+      "answer": "正确",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 35,
+      "question": "unstack()方法可以将行索引旋转为列索引。",
+      "options": ["正确", "错误"],
+      "answer": "错误",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    }
+  ],
+  "singleQuestions": [
+    {
+      "id": 1,
+      "question": "下列有关文本标注的描述正确的是（）。",
+      "options": [
+        "标注的过程中可以随意更改原文",
+        "标注的过程中可以随意添加标注",
+        "标注的过程中可以随意删除标注",
+        "标注的过程中需要遵循一定的标注规范"
+      ],
+      "answer": "标注的过程中需要遵循一定的标注规范",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 2,
+      "question": "对于需要实时、精确的数据抽取场景，最适合的查询工具是？",
+      "options": [
+        "直接查询",
+        "NoSQL 数据库",
+        "分布式数据库",
+        "时间序列数据库"
+      ],
+      "answer": "直接查询",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 3,
+      "question": "图像几何变换无法实现的处理效果是？",
+      "options": [
+        "大小变化",
+        "形状变化",
+        "位置变化",
+        "颜色变化"
+      ],
+      "answer": "颜色变化",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 4,
+      "question": "灰度的对数变换常用的操作是什么？",
+      "options": [
+        "直方图均衡化",
+        "低频加强",
+        "图像均匀加亮",
+        "中值滤波"
+      ],
+      "answer": "直方图均衡化",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 5,
+      "question": "下列选项中，不适合用于文本标注的方法是？",
+      "options": [
+        "划线",
+        "圈点",
+        "写摘要",
+        "涂抹"
+      ],
+      "answer": "涂抹",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 6,
+      "question": "音频标注需要通过（）将语音内容转化为文本内容，通过算法模型识别转化后的文本内容。",
+      "options": [
+        "数据标注员",
+        "专家",
+        "人工",
+        "机器"
+      ],
+      "answer": "机器",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 7,
+      "question": "对于视频图像数据，不需要叠加的信息是什么？",
+      "options": [
+        "经纬度",
+        "日期",
+        "时间",
+        "位置"
+      ],
+      "answer": "经纬度",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 8,
+      "question": "可以同时去掉字符串左边和右边空格的函数是（）。",
+      "options": [
+        "center()",
+        "count()",
+        "fomat()",
+        "strip()"
+      ],
+      "answer": "strip()",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 9,
+      "question": "基于深度学习的图像识别过程中，卷积层的作用是（）。",
+      "options": [
+        "把图片变为灰度",
+        "提高图片的分辨率",
+        "降低图片的分辨效果",
+        "提取图片的特征"
+      ],
+      "answer": "提取图片的特征",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 10,
+      "question": "数据处理是指对采集到的数据进行加工整理，其方法不包括（）。",
+      "options": [
+        "数据清洗",
+        "数据转化",
+        "数据计算",
+        "数据展现"
+      ],
+      "answer": "数据展现",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 11,
+      "question": "视频源数据管理包含视频信息管理和()管理两项任务？",
+      "options": [
+        "视频目录",
+        "视频修改",
+        "视频删除",
+        "视频查询"
+      ],
+      "answer": "视频目录",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 12,
+      "question": "在对数据进行分组时，要求总体中每一个单位都只能归属到一个组中，这种原则是指？",
+      "options": [
+        "排他性",
+        "共享性",
+        "唯一性",
+        "多元性"
+      ],
+      "answer": "排他性",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 13,
+      "question": "在 Python 函数中，可以为图表设置标签的是?",
+      "options": [
+        "legend()",
+        "xlabel()",
+        "title()",
+        "xlim()"
+      ],
+      "answer": "xlabel()",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 14,
+      "question": "在关系数据库中，在一个关系中引用了另一个关系的主键作为自身属性的属性，指的是？",
+      "options": [
+        "主键",
+        "外键",
+        "实体",
+        "模型"
+      ],
+      "answer": "外键",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 15,
+      "question": "自然语言处理的重要应用，也可以说是最基础应用的是（）。",
+      "options": [
+        "直接在音频波形上画线",
+        "添加文本注释",
+        "通过颜色标记",
+        "以上所有"
+      ],
+      "answer": "以上所有",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 16,
+      "question": "计算机中用来表示存储容量大小的基本单位是什么？",
+      "options": [
+        "字节",
+        "位",
+        "比特",
+        "字"
+      ],
+      "answer": "字节",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 17,
+      "question": "在人工智能项目中，特征工程的主要目的是？",
+      "options": [
+        "提高模型的训练速度",
+        "降低模型的复杂度",
+        "提升模型的预测准确性",
+        "增加数据的存储容量"
+      ],
+      "answer": "提升模型的预测准确性",
+      "userAnswer": "",
+      "explanation": "人工智能技术培训与指导：特征工程是通过对原始数据进行处理和转换，提取出对模型预测有价值的信息，从而提升模型的预测准确性。",
+      "showExplanation": false
+    },
+    {
+      "id": 18,
+      "question": "下列用于将 Python 程序打包成可执行文件的工具是（）。",
+      "options": [
+        "Panda",
+        "cocos2d",
+        "pip",
+        "PyInstaller"
+      ],
+      "answer": "PyInstaller",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 19,
+      "question": "在 Linux 环境中，常用于授权的命令是？",
+      "options": [
+        "chmod",
+        "git",
+        "socket",
+        "namp"
+      ],
+      "answer": "chmod",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 20,
+      "question": "图像标注是计算机视觉中主要的标注类型，下列选项中，不属于图像标注范畴的是？",
+      "options": [
+        "分类信息",
+        "位置信息",
+        "语义信息",
+        "储存信息"
+      ],
+      "answer": "储存信息",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 21,
+      "question": "进行文本信息的数据处理和统计时，不能处理不平衡数据的是（）。",
+      "options": [
+        "过采样",
+        "欠采样",
+        "SMOTE",
+        "词袋模型"
+      ],
+      "answer": "词袋模型",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 22,
+      "question": "通过模型辅助进行文本分类，常用的模型是（）。",
+      "options": [
+        "朴素贝叶斯",
+        "决策树(Decision Tree)",
+        "支持向量机",
+        "以上都是"
+      ],
+      "answer": "以上都是",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 23,
+      "question": "标注数据的合规安全管理中，数据备份和恢复的目的是什么？",
+      "options": [
+        "防止数据丢失和损坏",
+        "保护数据的隐私和机密性",
+        "控制数据的访问和使用权限",
+        "所有选项都是正确的"
+      ],
+      "answer": "防止数据丢失和损坏",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 24,
+      "question": "以下描述致力于计算机理解人类语言的句子或词语，目的是实现人机交互技术的是（）。",
+      "options": [
+        "文字校对技术",
+        "自然语言生成技术",
+        "中文自动分词技术",
+        "自然语言处理技术"
+      ],
+      "answer": "自然语言处理技术",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 25,
+      "question": "在自动驾驶领域中，数据标注的主要目的为？",
+      "options": [
+        "提供训练数据，帮助机器学习算法识别和理解道路上的各种对象和场景",
+        "收集用户反馈，改进自动驾驶系统的性能",
+        "保护用户隐私，确保个人数据不被滥用",
+        "降低自动驾驶系统的成本，提高商业竞争力"
+      ],
+      "answer": "提供训练数据，帮助机器学习算法识别和理解道路上的各种对象和场景",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 26,
+      "question": "老张交换名片后，小王打开手机中安装的灵云智能输入法 app，拍照老张的名片，很快得到名片文字信息并保存，在这过程中最主要应用的技术指的是？",
+      "options": [
+        "模式识别",
+        "文字合成",
+        "图像搜索",
+        "图像还原"
+      ],
+      "answer": "模式识别",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 27,
+      "question": "数据标注中的‘分词标注’属于什么大类？",
+      "options": [
+        "序列标注",
+        "分词标注",
+        "关系标注",
+        "属性标注"
+      ],
+      "answer": "序列标注",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 28,
+      "question": "基于 Python 编码的理解，下列方法中，可以将列表转换为 MultiIndex 对象的是?",
+      "options": [
+        "from_tuples()",
+        "from_arrays()",
+        "from_product()",
+        "from_list()"
+      ],
+      "answer": "from_list()",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 29,
+      "question": "对于原始为 011011111111111111110010 的数据，采用比特填充技术填充后的发送数据为（）。",
+      "options": [
+        "0110111110111111111110010",
+        "011011111111111111110010",
+        "01101111101111110111110010",
+        "011011111011111011111010010"
+      ],
+      "answer": "011011111011111011111010010",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 30,
+      "question": "如果目标图像中存在重叠的情况，为了能够突出这种情况，应该如何标注？",
+      "options": [
+        "一定要去重，所以只标注一个",
+        "不管有多少目标重叠，都要标注出来",
+        "只标注重叠部分最大的目标",
+        "标注所有目标的并集"
+      ],
+      "answer": "不管有多少目标重叠，都要标注出来",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 31,
+      "question": "基于图片分类算法的理解，在图片预处理的过程中，可用于提取图片特征的算法是？",
+      "options": [
+        "K-means 算法",
+        "卷积神经网络",
+        "支持向量机",
+        "随机森林"
+      ],
+      "answer": "卷积神经网络",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 32,
+      "question": "数据标注的流程的描述，下列选项的描述正确的是？",
+      "options": [
+        "数据采集、数据清洗、数据标注、数据质检、数据验收",
+        "数据清洗、数据采集、数据标注、数据质检、数据验收",
+        "数据采集、数据清洗、数据质检、数据标注、数据验收",
+        "数据标注、数据清洗、数据采集、数据质检、数据验收"
+      ],
+      "answer": "数据采集、数据清洗、数据标注、数据质检、数据验收",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 33,
+      "question": "在语音识别系统中，为了更好处理语音数据，需要进行预处理。下列选项中，属于预处理步骤的是？",
+      "options": [
+        "特征提取",
+        "语音分割",
+        "语音增强",
+        "语音识别"
+      ],
+      "answer": "语音增强",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 34,
+      "question": "在数据标注过程中，对应标注员所需要的素质是什么？",
+      "options": [
+        "学习力",
+        "专注力",
+        "责任感",
+        "以上都是"
+      ],
+      "answer": "以上都是",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 35,
+      "question": "以下选项中，最适合使用语音标注的是？",
+      "options": [
+        "情感分析",
+        "命名实体识别",
+        "关系抽取",
+        "图像识别"
+      ],
+      "answer": "图像识别",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 36,
+      "question": "在智能解决方案设计流程中，哪一步是在系统集成与交互之后？",
+      "options": [
+        "模型选择与设计",
+        "需求分析与问题定义",
+        "数据收集与分析",
+        "持续监控与优化"
+      ],
+      "answer": "持续监控与优化",
+      "userAnswer": "",
+      "explanation": "智能解决方案设：智能解决方案设计流程中，持续监控与优化是在系统集成与交互之后的步骤。",
+      "showExplanation": false
+    },
+    {
+      "id": 37,
+      "question": "AI 大模型的泛化能力意味着什么？",
+      "options": [
+        "它只能在特定任务上表现出色",
+        "它能够适应和解决多种不同的问题",
+        "它需要大量的人工干预",
+        "它能够处理更多的输入"
+      ],
+      "answer": "它能够适应和解决多种不同的问题",
+      "userAnswer": "",
+      "explanation": "本题目来自《AI 大模型基础介绍》，AI 大模型的泛化能力意味着它们不仅能够在特定任务上表现出色，还能够适应和解决多种不同的问题。这种泛化能力使得 AI 大模型在多个领域都有广泛的应用。",
+      "showExplanation": false
+    },
+    {
+      "id": 38,
+      "question": "在深度学习中，损失函数的作用是？",
+      "options": [
+        "接收原始数据作为输入",
+        "衡量神经网络输出与真实标签之间的差异",
+        "通过非线性变换将输入信号转换为输出",
+        "基于梯度下降的优化算法"
+      ],
+      "answer": "衡量神经网络输出与真实标签之间的差异",
+      "userAnswer": "",
+      "explanation": "深度学习基础：由深度学习的组成部分可知，损失函数的作用是衡量神经网络输出与真实标签之间的差异，用于评估模型的性能。",
+      "showExplanation": false
+    },
+    {
+      "id": 39,
+      "question": "在卷积层中，卷积核的作用类似于？",
+      "options": [
+        "滤波器，用于提取输入数据中的特征",
+        "分类器，用于对输入数据直接分类",
+        "正则化工具，防止过拟合",
+        "降维工具，减少特征的数量"
+      ],
+      "answer": "滤波器，用于提取输入数据中的特征",
+      "userAnswer": "",
+      "explanation": "卷积神经网络：卷积核在卷积层中扮演滤波器的角色，用于从输入图像中检测和提取特征。",
+      "showExplanation": false
+    },
+    {
+      "id": 40,
+      "question": "在讲义的内容结构中，哪个部分通常用来提供讲义的整体概览？",
+      "options": [
+        "章节和标题",
+        "大纲",
+        "逻辑层次结构",
+        "模块化设计"
+      ],
+      "answer": "大纲",
+      "userAnswer": "",
+      "explanation": "培训讲义编写思路：大纲是整个讲义的框架，它列出了讲义的主要主题和子主题，提供了一个总体的概览。",
+      "showExplanation": false
+    },
+    {
+      "id": 41,
+      "question": "在智能流程优化实践中，通过技术整合进行数字化转型的目的是什么？",
+      "options": [
+        "增加技术复杂性",
+        "提高流程的自动化和智能化水平",
+        "减少客户互动",
+        "提升服务质量"
+      ],
+      "answer": "提高流程的自动化和智能化水平",
+      "userAnswer": "",
+      "explanation": "本题目来自《智能流程优化》，技术整合是整合最新的数字技术，如云计算、大数据、物联网和人工智能，以提高流程的自动化和智能化水平",
+      "showExplanation": false
+    },
+    {
+      "id": 42,
+      "question": "在模型监控中，哪种监控方法可以直观地了解数据的分布情况和异常情况？",
+      "options": [
+        "数据监控",
+        "性能监控",
+        "系统监控",
+        "安全监控"
+      ],
+      "answer": "数据监控",
+      "userAnswer": "",
+      "explanation": "模型监控与部署：数据监控通过统计分析和可视化工具，可以直观地了解数据的分布情况和异常情况。",
+      "showExplanation": false
+    },
+    {
+      "id": 43,
+      "question": "在机器学习模型开发中，算法优化与调参的主要目的是？",
+      "options": [
+        "减少模型训练所需的时间",
+        "提升模型在未知数据上的泛化能力和预测准确性",
+        "增加模型的训练数据量",
+        "降低模型所需的硬件资源需求"
+      ],
+      "answer": "提升模型在未知数据上的泛化能力和预测准确性",
+      "userAnswer": "",
+      "explanation": "算法优化与调参：算法优化与调参是为了找到最优模型参数和超参数组合，从而提升模型在未知数据上的性能和泛化能力。",
+      "showExplanation": false
+    },
+    {
+      "id": 44,
+      "question": "以下哪种模型不适用于文本分类？",
+      "options": [
+        "支持向量机",
+        "朴素贝叶斯分类器",
+        "卷积神经网络",
+        "线性回归"
+      ],
+      "answer": "线性回归",
+      "userAnswer": "",
+      "explanation": "文本分类：线性回归通常用于回归分析，而不是文本分类。",
+      "showExplanation": false
+    },
+    {
+      "id": 45,
+      "question": "在业务模块与流程映射方法中，通常使用哪种图来表示业务流程？",
+      "options": [
+        "思维导图",
+        "流程图",
+        "组织结构图",
+        "鱼骨图"
+      ],
+      "answer": "流程图",
+      "userAnswer": "",
+      "explanation": "业务模块分析方法：流程图是作为业务模块与流程映射的方法。",
+      "showExplanation": false
+    },
+    {
+      "id": 46,
+      "question": "在强化学习中，模型如何改进行为策略？",
+      "options": [
+        "通过预先设定的行为规则",
+        "通过观察其他模型的行为",
+        "通过与环境互动并试错",
+        "通过分析历史数据中的模式"
+      ],
+      "answer": "通过与环境互动并试错",
+      "userAnswer": "",
+      "explanation": "人工智能训练师知识图谱：强化学习中模型通过与环境交互并不断尝试，逐步学习最优行为策略。",
+      "showExplanation": false
+    },
+    {
+      "id": 47,
+      "question": "人机交互流程设计的基础概念中，以下哪项不属于交互设计原则？",
+      "options": [
+        "一致性",
+        "可见性",
+        "个性化",
+        "复杂性"
+      ],
+      "answer": "复杂性",
+      "userAnswer": "",
+      "explanation": "人机交互流程设计概述：交互设计原则包括一致性、可见性、反馈、个性化和有效性。复杂性不是交互设计原则的一部分。",
+      "showExplanation": false
+    },
+    {
+      "id": 48,
+      "question": "在图像数据标注中，质检和审核的目的是？",
+      "options": [
+        "增加工作量",
+        "确保标注结果的准确性和一致性",
+        "减少标注成本",
+        "缩短项目周期"
+      ],
+      "answer": "确保标注结果的准确性和一致性",
+      "userAnswer": "",
+      "explanation": "智慧交通图像数据标注规范：质检和审核是标注流程中的重要环节，目的是确保标注数据的质量，提高模型训练的效果。",
+      "showExplanation": false
+    },
+    {
+      "id": 49,
+      "question": "在算法优化中，使用交叉验证的主要目的是？",
+      "options": [
+        "验证模型的训练速度",
+        "估计模型在未知数据上的性能",
+        "保证模型在训练集上达到最佳效果",
+        "避免过拟合，提高模型稳定性"
+      ],
+      "answer": "估计模型在未知数据上的性能",
+      "userAnswer": "",
+      "explanation": "算法优化与调参：交叉验证是用来估计模型在未知数据上的性能，并据此选择表现最好的模型或参数组合。",
+      "showExplanation": false
+    },
+    {
+      "id": 50,
+      "question": "在与 GPT 系列大模型的 API 交互中，‘Model’参数用于指定什么？",
+      "options": [
+        "使用的 GPT 模型的版本或变体",
+        "模型的训练数据集",
+        "模型的无损压缩技术",
+        "输入模型的提示词"
+      ],
+      "answer": "使用的 GPT 模型的版本或变体",
+      "userAnswer": "",
+      "explanation": "本题目来自《AI 大模型实践与应用》，在大模型交互中，‘Model’参数用于指定使用的 GPT 模型的版本或变体。",
+      "showExplanation": false
+    },
+    {
+      "id": 51,
+      "question": "在业务模块设计中，为了发现业务模块之间的时序关系和确保交互的合理性，应采用哪种图来表示？",
+      "options": [
+        "直方图",
+        "饼图",
+        "时序图",
+        "流程图"
+      ],
+      "answer": "时序图",
+      "userAnswer": "",
+      "explanation": "业务模块分析方法：学习时序图的绘制和解读，可以发现业务模块之间的时序关系，确保交互的合理性。",
+      "showExplanation": false
+    },
+    {
+      "id": 52,
+      "question": "关键信息提取的目的是？",
+      "options": [
+        "增加文档的字数",
+        "提高文档的艺术性",
+        "提取文档的核心主题",
+        "降低信息的实用性"
+      ],
+      "answer": "提取文档的核心主题",
+      "userAnswer": "",
+      "explanation": "知识萃取与经验总结技巧：关键信息提取的目的是为了从文本中提取出反映核心主题的信息，从而提高信息的实用性和针对性。",
+      "showExplanation": false
+    },
+    {
+      "id": 53,
+      "question": "分析报告在资源规划和管理中的作用是？",
+      "options": [
+        "仅用于展示数据",
+        "帮助合理规划资源",
+        "用于评估员工绩效",
+        "用于市场推广"
+      ],
+      "answer": "帮助合理规划资源",
+      "userAnswer": "",
+      "explanation": "测试报告与分析报告编写要点：分析报告通过提供深入的数据分析，有助于合理规划和管理组织的人力、财务和技术资源。",
+      "showExplanation": false
+    },
+    {
+      "id": 54,
+      "question": "数据拆解的目标不包括以下哪项？",
+      "options": [
+        "特征选择",
+        "数据分割",
+        "解决不平衡数据",
+        "增加数据量"
+      ],
+      "answer": "增加数据量",
+      "userAnswer": "",
+      "explanation": "数据拆解高阶方法：数据拆解的目标包括特征选择、降维、数据分割和解决不平衡数据。",
+      "showExplanation": false
+    },
+    {
+      "id": 55,
+      "question": "下列选项中，布尔值不是 False 的是？",
+      "options": [
+        "None",
+        "0",
+        "()",
+        "1"
+      ],
+      "answer": "1",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 56,
+      "question": "文本分类的主要目的是？",
+      "options": [
+        "将文本数据分为不同的预定义类别或标签",
+        "将文本转换为数值特征",
+        "清洗和转换原始文本数据",
+        "训练神经网络模型"
+      ],
+      "answer": "将文本数据分为不同的预定义类别或标签",
+      "userAnswer": "",
+      "explanation": "文本分类：文本分类旨在将给定的文本数据分为不同的预定义类别或标签，这是自然语言处理中的一个常见任务。",
+      "showExplanation": false
+    },
+    {
+      "id": 57,
+      "question": "人工智能训练师的主要职责是？",
+      "options": [
+        "设计和实现算法",
+        "管理和维护数据库",
+        "进行行业趋势分析",
+        "构建和优化人工智能模型"
+      ],
+      "answer": "构建和优化人工智能模型",
+      "userAnswer": "",
+      "explanation": "人工智能训练师知识图谱：人工智能训练师的角色包括构建和优化人工智能模型，这是他们的主要职责之一。",
+      "showExplanation": false
+    },
+    {
+      "id": 58,
+      "question": "在音频数据标注中，音频分割的目的是？",
+      "options": [
+        "将音频内容转化为图像",
+        "将音频划分为多个片段，并标注每个片段",
+        "为音频添加背景音乐",
+        "转写音频为文本"
+      ],
+      "answer": "将音频划分为多个片段，并标注每个片段",
+      "userAnswer": "",
+      "explanation": "数据标注技能图谱：音频分割是将音频划分成多个片段，并为每个片段分配相应的标签，用于音频数据标注。",
+      "showExplanation": false
+    },
+    {
+      "id": 59,
+      "question": "数据标注的主要作用是？",
+      "options": [
+        "训练无监督学习模型",
+        "训练监督学习模型",
+        "优化数据库结构",
+        "提高服务器性能"
+      ],
+      "answer": "训练监督学习模型",
+      "userAnswer": "",
+      "explanation": "数据标注技能图谱：数据标注为监督学习提供了带有标签的训练数据，使机器学习模型能够学习输入数据与相应输出标签之间的关系。",
+      "showExplanation": false
+    },
+    {
+      "id": 60,
+      "question": "视频类业务数据采集要求的核心能力不包括？",
+      "options": [
+        "驾驶员信息采集",
+        "路况信息采集",
+        "人体状况分析采集",
+        "车载语音唤醒词采集"
+      ],
+      "answer": "人体状况分析采集",
+      "userAnswer": "",
+      "explanation": "业务采集流程设计：视频类业务数据采集要求的核心能力包括驾驶员信息采集、路况信息采集和车载语音唤醒词采集等。",
+      "showExplanation": false
+    },
+    {
+      "id": 61,
+      "question": "Dice Coefficient 衡量的是？",
+      "options": [
+        "图像的对比度",
+        "图像的亮度",
+        "两个集合的相似度",
+        "图像的清晰度"
+      ],
+      "answer": "两个集合的相似度",
+      "userAnswer": "",
+      "explanation": "图像实例分割：Dice Coefficient 是衡量两个集合相似度的指标，计算公式为两倍的交集面积除以两个集合的总面积。",
+      "showExplanation": false
+    },
+    {
+      "id": 62,
+      "question": "在推荐系统中，哪种优化方法可以动态调整推荐策略？",
+      "options": [
+        "强化学习",
+        "随机搜索",
+        "贝叶斯优化",
+        "网格搜索"
+      ],
+      "answer": "强化学习",
+      "userAnswer": "",
+      "explanation": "算法优化与调参：强化学习算法通过试错和奖励机制来动态调整推荐系统的个性化策略。",
+      "showExplanation": false
+    },
+    {
+      "id": 63,
+      "question": "数据驱动的决策原则要求企业建立什么？",
+      "options": [
+        "强大的数据收集和管理系统",
+        "实时数据监控系统",
+        "强大的数据删除和销毁系统",
+        "依赖直觉的决策系统"
+      ],
+      "answer": "强大的数据收集和管理系统",
+      "userAnswer": "",
+      "explanation": "本题目来自《智能流程优化》，数据驱动的决策原则要求企业建立强大的数据收集和管理系统，以便有效地捕获和存储所有相关数据。",
+      "showExplanation": false
+    },
+    {
+      "id": 64,
+      "question": "根据数据驱动决策的基础概念，数据驱动的优势是？",
+      "options": [
+        "大量收集数据",
+        "基于事实做决策",
+        "分析统计结果",
+        "提高决策的准确性和客观性"
+      ],
+      "answer": "提高决策的准确性和客观性",
+      "userAnswer": "",
+      "explanation": "业务模块优化方法：数据驱动决策优势在于能够减少主观因素的影响，提高决策的客观性和准确性。",
+      "showExplanation": false
+    },
+    {
+      "id": 65,
+      "question": "数据预处理和增强的主要目的是？",
+      "options": [
+        "提高模型的复杂度",
+        "提高模型的性能和泛化能力",
+        "减少模型的训练时间",
+        "降低模型的准确性"
+      ],
+      "answer": "提高模型的性能和泛化能力",
+      "userAnswer": "",
+      "explanation": "数据预处理和增强：数据预处理和增强是为了使数据适应模型的要求，提取有用的特征并去除噪声，从而提高模型的训练效果和泛化能力。",
+      "showExplanation": false
+    },
+    {
+      "id": 66,
+      "question": "在文本类数据的特征拆解和提取中，TF-IDF 的作用是？",
+      "options": [
+        "衡量一个词在文本中的重要性",
+        "捕捉词语之间的语义关系",
+        "发现文本中隐藏的主题结构",
+        "统计每个词语在文本中的出现次数"
+      ],
+      "answer": "衡量一个词在文本中的重要性",
+      "userAnswer": "",
+      "explanation": "数据拆解高阶方法：TF-IDF 结合词频和逆文档频率，用于衡量一个词在文本中的重要性。计算词频，然后乘以逆文档频率，得到一个词的 TF-IDF 值。",
+      "showExplanation": false
+    },
+    {
+      "id": 67,
+      "question": "业务模块性能指标分析策略的目的是？",
+      "options": [
+        "收集数据",
+        "流程映射",
+        "提升用户体验",
+        "性能指标分析"
+      ],
+      "answer": "提升用户体验",
+      "userAnswer": "",
+      "explanation": "业务模块分析方法：业务模块性能指标分析策略的主要目的是为了提升用户体验。",
+      "showExplanation": false
+    },
+    {
+      "id": 68,
+      "question": "平均召回（Average Recall）如何评估模型性能？",
+      "options": [
+        "通过计算不同类别的精确度并求平均",
+        "通过计算不同类别的召回率并求平均",
+        "通过计算模型的总体准确度",
+        "通过计算模型的 F1 分数"
+      ],
+      "answer": "通过计算不同类别的召回率并求平均",
+      "userAnswer": "",
+      "explanation": "图像实例分割：平均召回是通过计算不同类别的召回率并求平均来评估模型性能的指标。",
+      "showExplanation": false
+    },
+    {
+      "id": 69,
+      "question": "计算机视觉中，常用的标注数据格式是？",
+      "options": [
+        "XML",
+        "CSV",
+        "JSON",
+        "YOLO"
+      ],
+      "answer": "YOLO",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 70,
+      "question": "基于图像跟踪相关算法的理解，常用于目标运动估计的算法有？",
+      "options": [
+        "直方图反向投影",
+        "形态学运算",
+        "光流法",
+        "高斯金字塔"
+      ],
+      "answer": "光流法",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 71,
+      "question": "图像腐蚀的作用是将目标图像收缩，下列不属于其作用的是（）。",
+      "options": [
+        "去除边界",
+        "去除黏连",
+        "去除干扰",
+        "填充空洞"
+      ],
+      "answer": "填充空洞",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 72,
+      "question": "下列图像运算中，属于点运算的是（）。",
+      "options": [
+        "图像加法运算",
+        "图像旋转",
+        "图像逻辑运算",
+        "图像幂次变换"
+      ],
+      "answer": "图像幂次变换",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 73,
+      "question": "超声图像的信息是通过超声波雷达得到的，其数据的来源是？",
+      "options": [
+        "超声波的反射",
+        "超声波的折射",
+        "超声波的透射",
+        "超声波的反射和透射"
+      ],
+      "answer": "超声波的反射",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 74,
+      "question": "如果想要从商品表查找价格超过 5000 元的商品，需要使用的查询方式是？",
+      "options": [
+        "易查询",
+        "聚合查询",
+        "多表连接查询",
+        "时间序列查询"
+      ],
+      "answer": "易查询",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 75,
+      "question": "若数字图像的灰度量化用 6 比特编码时，则量化等级是？",
+      "options": [
+        "RGB",
+        "YUV",
+        "CMYK",
+        "HSI"
+      ],
+      "answer": "RGB",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 76,
+      "question": "Photoshop 加工图像时，用于保存所有编辑信息的图像格式种类是（）。",
+      "options": [
+        "BMP",
+        "GIF",
+        "TIF",
+        "PSD"
+      ],
+      "answer": "PSD",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 77,
+      "question": "在对客户价值分析的数据进行处理时，包含的流程步骤有？",
+      "options": [
+        "数据处理、数据清洗、数据计算、数据分析与展示",
+        "数据清洗、数据计算、数据处理、数据分析与展示",
+        "数据计算、数据清洗、数据处理、数据分析与展示",
+        "数据清洗、数据处理、数据计算、数据分析与展示"
+      ],
+      "answer": "数据清洗、数据处理、数据计算、数据分析与展示",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 78,
+      "question": "数据标注中的众包数据标注是指什么？",
+      "options": [
+        "一种通过互联网平台将任务分发给大量志愿者完成的数据标注方法",
+        "一种通过人工智能算法自动完成数据标注的方法",
+        "一种通过专业团队进行数据标注的方法",
+        "一种通过机器学习模型进行数据标注的方法"
+      ],
+      "answer": "一种通过互联网平台将任务分发给大量志愿者完成的数据标注方法",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 79,
+      "question": "下列不属于文本标注的常见类型的是？",
+      "options": [
+        "实体标注",
+        "关系标注",
+        "事件标注",
+        "图像标注"
+      ],
+      "answer": "图像标注",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 80,
+      "question": "标注数据质量评测可以通过下列选项中哪种方式进行？",
+      "options": [
+        "人工检查和统计分析",
+        "自动化算法和机器学习模型",
+        "用户反馈和调查问卷",
+        "数据可视化和图表分析"
+      ],
+      "answer": "人工检查和统计分析",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 81,
+      "question": "下列关于 Python 注释代码，描述错误的是（）。",
+      "options": [
+        "#Python 注释代码",
+        "#Python 注释代码 1 #Python 注释代码 2",
+        "\"Python 文档注释\"",
+        "//Python 注释代码"
+      ],
+      "answer": "//Python 注释代码",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 82,
+      "question": "以下哪个应用场景最适合使用长短期记忆网络？",
+      "options": [
+        "语音识别",
+        "图像分类",
+        "短期金融市场预测",
+        "电影推荐"
+      ],
+      "answer": "语音识别",
+      "userAnswer": "",
+      "explanation": "循环神经网络：LSTM 擅长处理序列数据中的长期依赖问题，因此更适合语音识别这类时序信号处理任务。",
+      "showExplanation": false
+    },
+    {
+      "id": 83,
+      "question": "分析报告中，哪种类型的图表适合展示测试用例的通过率变化趋势？",
+      "options": [
+        "散点图",
+        "柱状图",
+        "折线图",
+        "热力图"
+      ],
+      "answer": "折线图",
+      "userAnswer": "",
+      "explanation": "测试报告与分析报告编写要点：折线图适合用来表示数据随时间变化的趋势，因此适用于展示测试用例的通过率变化情况。",
+      "showExplanation": false
+    },
+    {
+      "id": 84,
+      "question": "流程优化的两大基本原则，一是简化与去除冗余，二是？",
+      "options": [
+        "识别瓶颈与瑕疵",
+        "降低工作成本",
+        "保证用户满意度",
+        "定期回顾与调整"
+      ],
+      "answer": "识别瓶颈与瑕疵",
+      "userAnswer": "",
+      "explanation": "业务流程设计概述：流程优化的基本原则有识别瓶颈与瑕疵和简化与去除冗余。",
+      "showExplanation": false
+    },
+    {
+      "id": 85,
+      "question": "原型设计工具的主要作用是？",
+      "options": [
+        "进行数据分析",
+        "创建系统的交互原型",
+        "用户行为研究",
+        "智能系统交互设计"
+      ],
+      "answer": "创建系统的交互原型",
+      "userAnswer": "",
+      "explanation": "人机交互流程设计工具：原型设计工具用于创建系统的交互原型，分为高保真和低保真工具。",
+      "showExplanation": false
+    },
+    {
+      "id": 86,
+      "question": "对于数据增强后的标注数据，正确的处理方式是？",
+      "options": [
+        "无需额外处理",
+        "根据增强方式调整原有标注",
+        "删除已增强的数据",
+        "重新生成新的标注"
+      ],
+      "answer": "根据增强方式调整原有标注",
+      "userAnswer": "",
+      "explanation": "数据标注技能图谱：当使用数据增强技术时，应对增强后的数据进行相应的标注调整，保持标注与增强后数据的一致性。",
+      "showExplanation": false
+    },
+    {
+      "id": 87,
+      "question": "在梯度下降算法中，哪种算法会在参数更新时考虑之前梯度方向的加权平均值？",
+      "options": [
+        "动量梯度下降",
+        "小批量梯度下降",
+        "批量梯度下降",
+        "随机梯度下降"
+      ],
+      "answer": "动量梯度下降",
+      "userAnswer": "",
+      "explanation": "深度学习基础：动量梯度下降算法在更新参数时除了考虑当前梯度外，还会加入之前梯度的加权平均值以加速收敛。",
+      "showExplanation": false
+    },
+    {
+      "id": 88,
+      "question": "t-分布邻域嵌入（t-SNE）是一种什么方法？",
+      "options": [
+        "线性降维方法",
+        "非线性降维方法",
+        "特征选择方法",
+        "数据分割方法"
+      ],
+      "answer": "非线性降维方法",
+      "userAnswer": "",
+      "explanation": "数据拆解高阶方法：t-SNE 是一种非线性降维方法，通过保留样本间的相对距离，将高维数据映射到低维空间。",
+      "showExplanation": false
+    },
+    {
+      "id": 89,
+      "question": "使用标注工具的操作时，下列不属于图像标注工具 Labelbox 的功能的是（）。",
+      "options": [
+        "支持多人协作标注",
+        "支持自动标注",
+        "支持导出标注结果",
+        "支持图像的裁剪和旋转"
+      ],
+      "answer": "支持图像的裁剪和旋转",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 90,
+      "question": "数据模型通常由（）（）和（）三要素构成。",
+      "options": [
+        "网状模型、关系模型、面向对象模型",
+        "数据结构、网状模型、关系模型",
+        "数据结构、数据操纵、关系模型",
+        "数据结构、数据操纵、完整性约束"
+      ],
+      "answer": "数据结构、数据操纵、完整性约束",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 91,
+      "question": "不可以将图像模板卷积中的模板理解为（）。",
+      "options": [
+        "一幅图像",
+        "一个滤波器",
+        "一个窗口",
+        "一个像素"
+      ],
+      "answer": "一个像素",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 92,
+      "question": "下列不属于图像标注挑战的是？",
+      "options": [
+        "标注所需时间",
+        "标注精度",
+        "标注所需领域知识",
+        "标注软件稳定性"
+      ],
+      "answer": "标注软件稳定性",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 93,
+      "question": "音素标注在语音识别中的应用是（）。",
+      "options": [
+        "语音时长",
+        "语音频率",
+        "语音强度",
+        "语音速度"
+      ],
+      "answer": "语音速度",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 94,
+      "question": "下列选项中，数据标注方法中最适合处理图像数据的是？",
+      "options": [
+        "角度",
+        "领域大小",
+        "坐标",
+        "距离"
+      ],
+      "answer": "距离",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 95,
+      "question": "数字图像处理时，无法实现提取目标边缘的操作是（）。",
+      "options": [
+        "二值形态学",
+        "梯度运算",
+        "高通滤波",
+        "图像平滑"
+      ],
+      "answer": "图像平滑",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 96,
+      "question": "能及时、有效反馈出数据异常的手段是什么？",
+      "options": [
+        "数据统计",
+        "数据分析",
+        "数据采集",
+        "数据监控"
+      ],
+      "answer": "数据监控",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 97,
+      "question": "数据标注的标准化可以使用下面的哪种方式实现？",
+      "options": [
+        "制定标注规范和指南",
+        "提供标注培训和指导",
+        "使用标注工具进行辅助",
+        "进行标注结果的审核和校对"
+      ],
+      "answer": "制定标注规范和指南",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 98,
+      "question": "图像分割标注方法中，哪种标注方法要求为每个像素分配一个具体的标签？",
+      "options": [
+        "区域标注",
+        "像素级标注",
+        "分割轮廓标注",
+        "语义标注"
+      ],
+      "answer": "像素级标注",
+      "userAnswer": "",
+      "explanation": "图像分割标注方法：像素级标注是一种要求为图像中的每个像素分配一个具体标签的方法。",
+      "showExplanation": false
+    },
+    {
+      "id": 99,
+      "question": "在数据处理的过程中，下列不属于特征选择的标准方法的是？",
+      "options": [
+        "嵌入",
+        "过滤",
+        "包装",
+        "抽样"
+      ],
+      "answer": "抽样",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 100,
+      "question": "在数据处理过程中，不属于‘数据预处理’方法的是？",
+      "options": [
+        "变量代换",
+        "离散比",
+        "聚类",
+        "估计遗漏值"
+      ],
+      "answer": "估计遗漏值",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 101,
+      "question": "下列不属于图像标注技术的是（）。",
+      "options": [
+        "目标检测",
+        "图像分类",
+        "图像分割",
+        "图像压缩"
+      ],
+      "answer": "图像压缩",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 102,
+      "question": "假设一个二分类问题，现在采用一个大于 0.5 的阈值，那么关于模型的说法正确的是？",
+      "options": [
+        "召回率降低或不变",
+        "分类准确率降低",
+        "召回率升高",
+        "分类准确率升高或不变"
+      ],
+      "answer": "分类准确率升高或不变",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 103,
+      "question": "基于实体关系标注算法的理解，在‘特征表示’方面，常用的方法有？",
+      "options": [
+        "词袋模型",
+        "SVM",
+        "Word2Vec",
+        "GloVe"
+      ],
+      "answer": "Word2Vec",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 104,
+      "question": "在数据采集过程中，行业数据作为重要的数据来源，下列选项中不属于行业数据采集的是？",
+      "options": [
+        "行业发展数据",
+        "市场需求数据",
+        "目标客户数据",
+        "店铺运营数据"
+      ],
+      "answer": "店铺运营数据",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 105,
+      "question": "在 python 数据结构中，下列选项属于集合的是？",
+      "options": [
+        "{1，2，2}",
+        "（1，2，2）",
+        "{1，2}",
+        "（1，2）"
+      ],
+      "answer": "{1，2}",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 106,
+      "question": "标注数据的编码方式中常用于将分类数据转换为向量形式的是（）？",
+      "options": [
+        "One-hot 编码",
+        "二进制编码",
+        "哈希编码",
+        "序列编码"
+      ],
+      "answer": "One-hot 编码",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 107,
+      "question": "下列的图像类型中，不属于位图类型图像的是（）。",
+      "options": [
+        "灰度图像",
+        "真彩色图像",
+        "索引图象",
+        "CAD 图像"
+      ],
+      "answer": "CAD 图像",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 108,
+      "question": "在业务模块优化中，首先需要进行的步骤是？",
+      "options": [
+        "技术实现",
+        "业务流程分析",
+        "优化策略选择",
+        "数据收集"
+      ],
+      "answer": "业务流程分析",
+      "userAnswer": "",
+      "explanation": "业务模块优化方法：优化策略的选择与实施的第一步是进行业务流程分析，明确每个业务模块的角色，并识别潜在瓶颈。",
+      "showExplanation": false
+    },
+    {
+      "id": 109,
+      "question": "基于图片 OCR 算法的理解，其常用的'图像滤波'方法是？",
+      "options": [
+        "Sobel 滤波",
+        "中值滤波",
+        "高斯滤波",
+        "Laplacian 滤波"
+      ],
+      "answer": "高斯滤波",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 110,
+      "question": "下列不属于数据标注工具常见功能的是（）。",
+      "options": [
+        "支持多种数据类型的标注",
+        "支持自动标注",
+        "支持数据清洗",
+        "支持数据加密"
+      ],
+      "answer": "支持数据加密",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 111,
+      "question": "基于智能标注（iTAG）的理解，在智能标注的过程中应注意的问题有？",
+      "options": [
+        "注意选择高质量的图像数据和标注工具",
+        "注意避免过度依赖智能标注，仍需人工审核和修正",
+        "注意保护个人隐私和信息安全，避免泄露敏感信息",
+        "注意保持标注数据的多样性和均衡性，避免数据偏差"
+      ],
+      "answer": "注意避免过度依赖智能标注，仍需人工审核和修正",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 112,
+      "question": "下列选项中，可用于删除处理空值的函数是？",
+      "options": [
+        "dropna",
+        "joinplot()",
+        "delete",
+        "del"
+      ],
+      "answer": "dropna",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 113,
+      "question": "人工智能对数据集进行数据标注时，符合标注规范的有？",
+      "options": [
+        "一阶谓词",
+        "原子公式",
+        "二阶谓词",
+        "全称谓词"
+      ],
+      "answer": "一阶谓词",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 114,
+      "question": "在机器学习中，下列选项可表示对不确定性的测量的是？",
+      "options": [
+        "熵",
+        "信息量",
+        "概率",
+        "正太分布"
+      ],
+      "answer": "熵",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 115,
+      "question": "标注数据的采集过程中可能遇到的问题有？",
+      "options": [
+        "数据缺失或不完整",
+        "数据标注不一致或错误",
+        "数据量过大导致处理困难",
+        "数据来源不可靠或不准确"
+      ],
+      "answer": "数据缺失或不完整",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 116,
+      "question": "基于 Python 的相关理解，下列选项中数据类型是列表的是？",
+      "options": [
+        "（1，2，3）",
+        "{1，2，3}",
+        "[1，2，3]",
+        "1"
+      ],
+      "answer": "[1，2，3]",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 117,
+      "question": "下列描述的图像文件格式中，（）可以存储 32 位信息的图像文件。",
+      "options": [
+        "BMP 文件",
+        "GIF 文件",
+        "JPEG 文件",
+        "PNG 文件"
+      ],
+      "answer": "PNG 文件",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 118,
+      "question": "下列选项中，不属于语音标注基本步骤的是（）。",
+      "options": [
+        "语音录制",
+        "语音分割",
+        "语音识别",
+        "语音合成"
+      ],
+      "answer": "语音合成",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 119,
+      "question": "计算机视觉与很多学科都有密切关系，下面哪个选项为计算机视觉提供了图像处理的方法与工具？",
+      "options": [
+        "数字图像处理",
+        "美术学",
+        "计算机绘图",
+        "物理学"
+      ],
+      "answer": "数字图像处理",
+      "userAnswer": "",
+      "explanation": "",
+      "showExplanation": false
+    },
+    {
+      "id": 120,
+      "question": "在支持向量机算法中，给定一个 d 维特征的数据，构建的超平面是一个多少维的线性子空间？",
+      "options": [
+        "d 维",
+        "d-1 维",
+        "d+1 维",
+        "1 维"
+      ],
+      "answer": "d-1 维",
+      "userAnswer": "",
+      "explanation": "监督学习与无监督学习：在支持向量机中，超平面是一个 d-1 维的线性子空间，其中 d 是数据的特征维度。",
+      "showExplanation": false
+    }
+  ],
+  "multiQuestions": [
+    {
+      "id": 1,
+      "question": "图像实例分割的实践方法包括？",
+      "options": [
+        "数据准备",
+        "压力测试",
+        "调参与优化",
+        "网络选择",
+        "后处理"
+      ],
+      "answer": ["数据准备", "调参与优化", "网络选择", "后处理"],
+      "userAnswer": [],
+      "explanation": "图像实例分割：图像实例分割的实践方法包括数据准备、网络选择、调参与优化、后处理等步骤",
+      "showExplanation": false
+    },
+    {
+      "id": 2,
+      "question": "AI 大模型的特点包括哪些方面？",
+      "options": [
+        "庞大的参数规模",
+        "上下文理解和生成能力",
+        "较快的训练速度",
+        "出色的泛化能力"
+      ],
+      "answer": ["庞大的参数规模", "上下文理解和生成能力", "出色的泛化能力"],
+      "userAnswer": [],
+      "explanation": "本题目来自《AI 大模型基础介绍》，AI 大模型的核心组成包括庞大的参数规模、上下文理解和生成能力以及出色的泛化能力。",
+      "showExplanation": false
+    },
+    {
+      "id": 3,
+      "question": "在选择数据可视化工具时需要考虑的因素有哪些？",
+      "options": [
+        "数据类型和来源",
+        "可视化效果",
+        "易用性",
+        "数据安全性",
+        "云端部署能力"
+      ],
+      "answer": ["数据类型和来源", "可视化效果", "易用性"],
+      "userAnswer": [],
+      "explanation": "业务数据处理流程设计：选择可视化工具时主要考虑与数据本身性质匹配度（数据类型和来源），可视化表现力（可视化效果），以及工具本身的易用性。",
+      "showExplanation": false
+    },
+    {
+      "id": 4,
+      "question": "在交通行人车辆目标检测案例中，以下哪项不是业务模块与流程映射的目的？",
+      "options": [
+        "优化流程",
+        "提高检测准确率",
+        "分析关联性",
+        "降低成本",
+        "提高效率"
+      ],
+      "answer": ["优化流程", "提高检测准确率", "降低成本", "提高效率"],
+      "userAnswer": [],
+      "explanation": "业务模块分析方法：映射方法用于分析业务模块与流程之间的关联性。",
+      "showExplanation": false
+    },
+    {
+      "id": 5,
+      "question": "哪些步骤是数据标注的一般流程中不可或缺的？",
+      "options": [
+        "制定标注指南",
+        "选择标注工具和平台",
+        "执行标注任务",
+        "质量控制和审核",
+        "数据收集和预处理"
+      ],
+      "answer": ["制定标注指南", "选择标注工具和平台", "执行标注任务", "质量控制和审核"],
+      "userAnswer": [],
+      "explanation": "数据标注技能图谱：数据标注的一般流程包括制定标注指南、选择标注工具和平台、执行标注任务以及质量控制和审核。数据收集和预处理虽然是数据标注项目中的重要步骤，但它们通常被视为标注流程之前的准备工作。",
+      "showExplanation": false
+    },
+    {
+      "id": 6,
+      "question": "智能系统的特征包括哪些方面？",
+      "options": [
+        "学习能力",
+        "推理和决策能力",
+        "感知与感知能力",
+        "数据分析能力",
+        "交互性"
+      ],
+      "answer": ["学习能力", "推理和决策能力", "感知与感知能力", "交互性"],
+      "userAnswer": [],
+      "explanation": "智能解决方案设：智能系统的特征包括学习能力、推理和决策能力、感知与感知能力以及交互性。",
+      "showExplanation": false
+    },
+    {
+      "id": 7,
+      "question": "智能系统设计中需要考虑哪些方面？",
+      "options": [
+        "系统架构设计",
+        "数据流程与模型集成",
+        "模型部署与维护",
+        "用户体验设计",
+        "系统安全性"
+      ],
+      "answer": ["系统架构设计", "数据流程与模型集成", "模型部署与维护", "系统安全性"],
+      "userAnswer": [],
+      "explanation": "人工智能训练师知识图谱：智能系统设计包括系统架构设计、数据流程与模型集成、模型部署与维护和系统安全性。用户体验设计虽然对于最终产品非常重要，但在 PPT 中并未提及，因此不包括在智能系统设计的核心考虑因素中。",
+      "showExplanation": false
+    },
+    {
+      "id": 8,
+      "question": "知识萃取中信息理解阶段可能涉及的技术有哪些？",
+      "options": [
+        "内容解析",
+        "上下文理解",
+        "情感分析",
+        "词法分析",
+        "句法分析"
+      ],
+      "answer": ["内容解析", "上下文理解", "情感分析", "词法分析", "句法分析"],
+      "userAnswer": [],
+      "explanation": "知识萃取与经验总结技巧：信息理解阶段包括内容解析、上下文理解及自然语言处理技术如词法分析、句法分析和情感分析等。",
+      "showExplanation": false
+    },
+    {
+      "id": 9,
+      "question": "智能流程优化的原则包括哪些？",
+      "options": [
+        "以企业效益为中心",
+        "以用户为中心的设计",
+        "数据驱动的决策",
+        "灵活性与可扩展性"
+      ],
+      "answer": ["以用户为中心的设计", "数据驱动的决策", "灵活性与可扩展性"],
+      "userAnswer": [],
+      "explanation": "本题目来自《智能流程优化》，智能流程优化的原则包括以用户为中心的设计、数据驱动的决策和灵活性与可扩展性。",
+      "showExplanation": false
+    },
+    {
+      "id": 10,
+      "question": "模型监控包括哪些方面？",
+      "options": [
+        "模型性能监控",
+        "数据监控",
+        "安全监控",
+        "系统监控",
+        "动态监控",
+        "日志监控"
+      ],
+      "answer": ["模型性能监控", "数据监控", "安全监控", "系统监控"],
+      "userAnswer": [],
+      "explanation": "模型监控与部署：模型监控包括模型性能监控、数据监控、安全监控和系统监控，不包括动态监控、日志监控。",
+      "showExplanation": false
+    },
+    {
+      "id": 11,
+      "question": "深度学习的常用神经网络包括哪些？",
+      "options": [
+        "卷积神经网络",
+        "循环神经网络",
+        "深度残差网络",
+        "生成对抗网络",
+        "决策树网络"
+      ],
+      "answer": ["卷积神经网络", "循环神经网络", "深度残差网络", "生成对抗网络"],
+      "userAnswer": [],
+      "explanation": "深度学习基础：根据深度学习的发展历程、深度学习的应用及案例，深度学习的常用神经网络包括卷积神经网络、循环神经网络、深度残差网络和生成对抗网络。",
+      "showExplanation": false
+    }
+  ]
+} 
