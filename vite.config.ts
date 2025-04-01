@@ -2,8 +2,8 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/ai-trainer-mock-exam/',
   plugins: [vue()],
+  base: process.env.NODE_ENV === 'production' ? '/html_st/' : './',
   resolve: {
     alias: {
       '@': '/src'
