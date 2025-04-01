@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '../components/Home.vue'
 import PracticeHome from '../components/practice/PracticeHome.vue'
 import ExamHome from '../components/exam/ExamHome.vue'
@@ -10,7 +10,7 @@ import MultiPractice from '../components/practice/MultiPractice.vue'
 import WrongQuestions from '@/components/exam/WrongQuestions.vue'
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(import.meta.env.PROD ? '/ai-trainer-mock-exam/' : '/'),
   routes: [
     {
       path: '/',
